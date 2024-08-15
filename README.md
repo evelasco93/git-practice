@@ -30,6 +30,10 @@
    ![](./screenshots/9.png?raw=true)
    ![](./screenshots/10.png?raw=true)
 
+4. Pushed changes in branch creating_action and merged
+
+5. Created new branch testing_action and created PR to trigger action
+
 ## Results
 
 - Go to "Actions" and look for the execution of the job :)!
